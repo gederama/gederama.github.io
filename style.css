@@ -185,6 +185,12 @@ section {
   .gallery {
     columns: 1;
   }
+  .content h2 {
+    font-size: 16px;
+  }
+  .content p {
+    font-size: 12px;
+  }
 }
 /* End Project Gallery Css */
 
