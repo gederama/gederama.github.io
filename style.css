@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 10rem;
+  color: white;
+  background: url(img/main.jpg) no-repeat center center;
+  background-size: cover;
+}
+section {
+  padding-top: 5rem;
+  background-color: #002c53;
+}
+footer {
+  background-color: #212529;
+  color: white;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+footer a:hover {
+  color: #495057;
+}
